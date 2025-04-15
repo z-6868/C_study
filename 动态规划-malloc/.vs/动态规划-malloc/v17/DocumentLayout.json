@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The word of Pioneer\\C-again\\C_study\\\u52A8\u6001\u89C4\u5212-malloc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52ADE0C0-0CF5-44D7-9C0E-D61B3F602DF2}|\u52A8\u6001\u89C4\u5212-malloc.vcxproj|D:\\The word of Pioneer\\C-again\\C_study\\\u52A8\u6001\u89C4\u5212-malloc\\malloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52ADE0C0-0CF5-44D7-9C0E-D61B3F602DF2}|\u52A8\u6001\u89C4\u5212-malloc.vcxproj|solutionrelative:malloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "malloc.c",
+              "DocumentMoniker": "D:\\The word of Pioneer\\C-again\\C_study\\\u52A8\u6001\u89C4\u5212-malloc\\malloc.c",
+              "RelativeDocumentMoniker": "malloc.c",
+              "ToolTip": "D:\\The word of Pioneer\\C-again\\C_study\\\u52A8\u6001\u89C4\u5212-malloc\\malloc.c",
+              "RelativeToolTip": "malloc.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T06:28:03.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
