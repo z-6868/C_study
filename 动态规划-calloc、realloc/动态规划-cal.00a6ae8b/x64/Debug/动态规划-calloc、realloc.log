@@ -1,0 +1,6 @@
+﻿  calloc和realloc.c
+D:\The word of Pioneer\C-again\C_study\动态规划-calloc、realloc\calloc和realloc.c(13,10): warning C4047: “函数”:“const char *”与“void *(__cdecl *)(size_t,size_t)”的间接级别不同
+D:\The word of Pioneer\C-again\C_study\动态规划-calloc、realloc\calloc和realloc.c(13,10): warning C4024: “perror”: 形参和实参 1 的类型不同
+D:\The word of Pioneer\C-again\C_study\动态规划-calloc、realloc\calloc和realloc.c(28,10): warning C4047: “函数”:“const char *”与“void *(__cdecl *)(void *,size_t)”的间接级别不同
+D:\The word of Pioneer\C-again\C_study\动态规划-calloc、realloc\calloc和realloc.c(28,10): warning C4024: “perror”: 形参和实参 1 的类型不同
+  动态规划-calloc、realloc.vcxproj -> D:\The word of Pioneer\C-again\C_study\动态规划-calloc、realloc\x64\Debug\动态规划-calloc、realloc.exe

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The word of Pioneer\\C-again\\C_study\\\u52A8\u6001\u89C4\u5212-calloc\u3001realloc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6AE8B-8601-478D-BF35-619DBF13EBBD}|\u52A8\u6001\u89C4\u5212-calloc\u3001realloc.vcxproj|D:\\The word of Pioneer\\C-again\\C_study\\\u52A8\u6001\u89C4\u5212-calloc\u3001realloc\\calloc\u548Crealloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A6AE8B-8601-478D-BF35-619DBF13EBBD}|\u52A8\u6001\u89C4\u5212-calloc\u3001realloc.vcxproj|solutionrelative:calloc\u548Crealloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calloc\u548Crealloc.c",
+              "DocumentMoniker": "D:\\The word of Pioneer\\C-again\\C_study\\\u52A8\u6001\u89C4\u5212-calloc\u3001realloc\\calloc\u548Crealloc.c",
+              "RelativeDocumentMoniker": "calloc\u548Crealloc.c",
+              "ToolTip": "D:\\The word of Pioneer\\C-again\\C_study\\\u52A8\u6001\u89C4\u5212-calloc\u3001realloc\\calloc\u548Crealloc.c",
+              "RelativeToolTip": "calloc\u548Crealloc.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T10:43:57.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
