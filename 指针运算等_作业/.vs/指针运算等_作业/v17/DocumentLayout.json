@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The word of Pioneer\\C-again\\C_study\\\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B90EA57-8CF6-43E8-8686-8C3EBBF83D91}|\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A.vcxproj|D:\\The word of Pioneer\\C-again\\C_study\\\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A\\\u5B57\u7B26\u4E32\u5DE6\u65CB.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B90EA57-8CF6-43E8-8686-8C3EBBF83D91}|\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A.vcxproj|solutionrelative:\u5B57\u7B26\u4E32\u5DE6\u65CB.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B90EA57-8CF6-43E8-8686-8C3EBBF83D91}|\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A.vcxproj|D:\\The word of Pioneer\\C-again\\C_study\\\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A\\\u5B57\u7B26\u4E32\u9006\u5E8F\u8F93\u51FA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B90EA57-8CF6-43E8-8686-8C3EBBF83D91}|\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A.vcxproj|solutionrelative:\u5B57\u7B26\u4E32\u9006\u5E8F\u8F93\u51FA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5B57\u7B26\u4E32\u5DE6\u65CB.c",
+              "DocumentMoniker": "D:\\The word of Pioneer\\C-again\\C_study\\\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A\\\u5B57\u7B26\u4E32\u5DE6\u65CB.c",
+              "RelativeDocumentMoniker": "\u5B57\u7B26\u4E32\u5DE6\u65CB.c",
+              "ToolTip": "D:\\The word of Pioneer\\C-again\\C_study\\\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A\\\u5B57\u7B26\u4E32\u5DE6\u65CB.c",
+              "RelativeToolTip": "\u5B57\u7B26\u4E32\u5DE6\u65CB.c",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T09:17:48.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5B57\u7B26\u4E32\u9006\u5E8F\u8F93\u51FA.c",
+              "DocumentMoniker": "D:\\The word of Pioneer\\C-again\\C_study\\\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A\\\u5B57\u7B26\u4E32\u9006\u5E8F\u8F93\u51FA.c",
+              "RelativeDocumentMoniker": "\u5B57\u7B26\u4E32\u9006\u5E8F\u8F93\u51FA.c",
+              "ToolTip": "D:\\The word of Pioneer\\C-again\\C_study\\\u6307\u9488\u8FD0\u7B97\u7B49_\u4F5C\u4E1A\\\u5B57\u7B26\u4E32\u9006\u5E8F\u8F93\u51FA.c",
+              "RelativeToolTip": "\u5B57\u7B26\u4E32\u9006\u5E8F\u8F93\u51FA.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T08:26:51.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
